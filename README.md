@@ -8,6 +8,12 @@ php app/console  generate:doctrine:form AppBundle:Order\DeliveryParty
 
 ```
 
+php app/console  generate:controller AppBundle:Order\Party 
+
+```
+
+```
+
 Options:
   -h, --help               Display this help message
   -q, --quiet              Do not output any message
