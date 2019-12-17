@@ -1,5 +1,27 @@
 # Symfony-Notes
 
+
+
+
+```
+
+php bin/console cache:clear 
+
+```
+
+```
+
+yarn encore dev
+
+```
+
+```
+
+yarn encore dev --watch
+
+```
+
+
 ```
 
 php app/console  generate:doctrine:form AppBundle:Order\DeliveryParty 
